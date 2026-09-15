@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Eu sou Ana Beatriz 👋
+Estudante de Tecnologia. Atualmente desenvolvendo meus conhecimentos em programação, desenvolvimento de software e tecnologias web.
+Tenho interesse em tecnologia, design e criação de soluções digitais. Neste perfil, compartilho projetos, exercícios acadêmicos e experiências desenvolvidas durante minha formação.
+Sempre buscando aprender, desenvolver novas habilidades e evoluir profissionalmente.
 
-<!--
-**anabeatrizvn2007-dev/anabeatrizvn2007-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tecnologias e ferramentas
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- JavaScript
+- C
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sobre mim
+
+Sou estudante e estou no início da minha jornada na área de tecnologia. Tenho interesse em programação, desenvolvimento e design, buscando sempre transformar meus aprendizados em projetos práticos.
+
+Meu objetivo é continuar aprendendo, adquirir experiência e construir uma carreira sólida na área de tecnologia.
+
+## 📌 Projetos
+
+Aqui você encontrará projetos acadêmicos, exercícios e experiências desenvolvidas ao longo da minha formação.
+
+---
+
+⭐ Obrigada por visitar meu perfil!
